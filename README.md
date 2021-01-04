@@ -12,8 +12,3 @@ See: [Contributing](./CONTRIBUTING.md)
 ## Students
 
 ...
-
-test
-
-server updatey
-

@@ -12,13 +12,3 @@ See: [Contributing](./CONTRIBUTING.md)
 ## Students
 
 ...
-
-### Test git deploy
-
-#kthxbye
-
-### Server update
-
-# TEST TEST
-
-dfgdfg
